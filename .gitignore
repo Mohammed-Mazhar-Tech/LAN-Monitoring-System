@@ -33,10 +33,10 @@ Temporary ASP.NET Files/
 Thumbs.db
 .DS_Store
 
-# 🔐 Sensitive config (IMPORTANT)
+# 🔐 Sensitive config (VERY IMPORTANT)
 
 Web.config
 
-# Allow example config
+# Allow safe example config
 
 !Web.config.example
